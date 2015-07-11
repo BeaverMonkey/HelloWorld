@@ -11,6 +11,7 @@ public class MainActivity extends Activity
     {
         //just a stupid comment
         //Just another stupid comment that will be a "mistake"
+        //Seriously stop!
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
